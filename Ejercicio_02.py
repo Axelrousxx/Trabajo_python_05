@@ -1,6 +1,6 @@
 num = int(input('Ingrese horas: '))
 
-tarifa = int(input('Ingrese tarifa en dolares: '))
+tarifa = float(input('Ingrese tarifa en dolares: '))
 
 total = num*tarifa
 
